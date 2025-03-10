@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1,
+    "name": "Pizza Paperoni",
+    "category": "Pizza",
+    "rating": 4.5,
+    "image": "/images/pizza_paperoni.png"
+  },
+  {
+    "id": 2,
+    "name": "Pizza Meat",
+    "category": "Pizza",
+    "rating": 3.5,
+    "image": "/images/pizza_meat.png"
+  },
+  {
+    "id": 3,
+    "name": "Doughnut Milk",
+    "category": "Doughnut",
+    "rating": 4.8,
+    "image": "/images/doughnut_milk.png"
+  },
+  {
+    "id": 4,
+    "name": "Doner Kebab",
+    "category": "Kebab",
+    "rating": 4.7,
+    "image": "/images/kebab.png"
+  },
+  {
+    "id": 5,
+    "name": "Salmon Roll",
+    "category": "Salmon",
+    "rating": 4.3,
+    "image": "/images/salmon.png"
+  },
+  {
+    "id": 6,
+    "name": "Cupcake Choco",
+    "category": "Cupcake",
+    "rating": 4.1,
+    "image": "/images/cupcake.png"
+  },
+  {
+    "id": 7,
+    "name": "Doughnut Unicorn",
+    "category": "Doughnut",
+    "rating": 4.0,
+    "image": "/images/doughnut_unicorn.png"
+  },
+  {
+    "id": 8,
+    "name": "Kathi Kebab",
+    "category": "Kebab",
+    "rating": 4.3,
+    "image": "/images/kebab_kathi.png"
+  },
+  {
+    "id": 9,
+    "name": "Green Salad Tomato",
+    "category": "Tomato",
+    "rating": 4.1,
+    "image": "/images/tomato.png"
+  }
+]
