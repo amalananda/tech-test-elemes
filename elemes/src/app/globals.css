@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  font-family: "Rubik";
+}
+
+.hero-section {
+  position: relative;
+  background-image: url('/images/hero_section.png');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-color: rgba(255, 255, 255, 0.98); /* Warna overlay */
+  background-blend-mode: soft-light; /* Atau coba overlay/soft-light untuk efek berbeda */
+}
